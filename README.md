@@ -1,1 +1,1 @@
-# password_manager_project
+Şifrelerinizi kayıt edebileceğiniz web arayüze sahip bir şifre yöneticisi
