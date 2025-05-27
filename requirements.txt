@@ -1,0 +1,7 @@
+bcrypt
+psycopg2
+pycryptodome
+flask
+flask-cors
+flask-jwt-extended
+python-dotenv
